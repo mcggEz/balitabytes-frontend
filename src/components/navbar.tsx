@@ -68,7 +68,7 @@ const Navbar = () => {
                 </svg>
               )}
             </button>
-          </div>
+           </div>
 
           {/* Mobile menu button */}
           <div className="md:hidden">
